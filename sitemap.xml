@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.larswagoner.com/categories/academic-work/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
-  </url><url>
     <loc>https://www.larswagoner.com/authors/</loc>
     <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
@@ -15,6 +12,9 @@
     <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/tags/epidemiology/</loc>
+    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/finance/</loc>
     <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/authors/lars-wagoner/</loc>
@@ -32,26 +32,23 @@
     <loc>https://www.larswagoner.com/posts/</loc>
     <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
-    <loc>https://www.larswagoner.com/tags/</loc>
+    <loc>https://www.larswagoner.com/categories/projects/</loc>
     <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
-    <loc>https://www.larswagoner.com/posts/post2/</loc>
-    <lastmod>2021-08-08T02:22:26+02:00</lastmod>
+    <loc>https://www.larswagoner.com/tags/stochastic-modelling/</loc>
+    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
-    <loc>https://www.larswagoner.com/categories/test/</loc>
-    <lastmod>2021-08-08T02:22:26+02:00</lastmod>
+    <loc>https://www.larswagoner.com/posts/malaria-genetic-modification/</loc>
+    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/</loc>
+    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/now/</loc>
     <lastmod>2021-08-08T02:11:16+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/about/</loc>
     <lastmod>2021-08-08T02:11:10+02:00</lastmod>
-  </url><url>
-    <loc>https://www.larswagoner.com/posts/post1/</loc>
-    <lastmod>2021-08-08T02:11:06+02:00</lastmod>
-  </url><url>
-    <loc>https://www.larswagoner.com/tags/testing/</loc>
-    <lastmod>2021-08-08T02:11:06+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/series/</loc>
   </url>

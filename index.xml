@@ -13,17 +13,16 @@
       <pubDate>Wed, 18 Aug 2021 20:12:30 +0200</pubDate>
       
       <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
-      <description>I think what I&amp;rsquo;ll do is I&amp;rsquo;ll write this post, a more casual explanation of everything, kinda skipping over some of the details esp. for the standard model, then at the beginning I&amp;rsquo;ll link to the paper that teo, bernardo and I did, then I&amp;rsquo;ll link to this new paper that I do after writing this and maybe with some support from magnus. Writing a new paper allows me to reference the paper we already did without rewriting that one, and I can put my own spin off it.</description>
+      <description>Malaria Model</description>
     </item>
     
     <item>
-      <title>Post2</title>
-      <link>https://www.larswagoner.com/posts/post2/</link>
-      <pubDate>Sun, 08 Aug 2021 02:22:26 +0200</pubDate>
+      <title>Stochastic Modelling - Deriving the Black-Scholes Model</title>
+      <link>https://www.larswagoner.com/posts/malaria-genetic-modification/</link>
+      <pubDate>Wed, 18 Aug 2021 20:12:30 +0200</pubDate>
       
-      <guid>https://www.larswagoner.com/posts/post2/</guid>
-      <description>P0ST
-i just deleted something now</description>
+      <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
+      <description>Black-Scholes</description>
     </item>
     
     <item>
@@ -42,15 +41,6 @@ i just deleted something now</description>
       
       <guid>https://www.larswagoner.com/about/</guid>
       <description>About page.</description>
-    </item>
-    
-    <item>
-      <title>Post 1</title>
-      <link>https://www.larswagoner.com/posts/post1/</link>
-      <pubDate>Sun, 08 Aug 2021 02:11:06 +0200</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/post1/</guid>
-      <description>Post 1 :)</description>
     </item>
     
   </channel>
