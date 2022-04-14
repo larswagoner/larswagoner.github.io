@@ -2,53 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.larswagoner.com/authors/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <loc>https://www.larswagoner.com/tags/algebra/</loc>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
-    <loc>https://www.larswagoner.com/tags/biology/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <loc>https://www.larswagoner.com/authors/</loc>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/categories/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
-    <loc>https://www.larswagoner.com/tags/epidemiology/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.larswagoner.com/tags/finance/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <loc>https://www.larswagoner.com/posts/finitely-generated-modules/</loc>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/authors/lars-wagoner/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.larswagoner.com/posts/malaria-genetic-modification/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/tags/mathematics/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/posts/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/categories/projects/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.larswagoner.com/tags/stochastic-modelling/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.larswagoner.com/posts/black-scholes/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/tags/</loc>
-    <lastmod>2021-08-18T20:12:30+02:00</lastmod>
+    <lastmod>2022-02-06T23:18:40+02:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/posts/black-scholes/</loc>
+    <lastmod>2022-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/finance/</loc>
+    <lastmod>2022-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/stochastic-modelling/</loc>
+    <lastmod>2022-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/posts/comb-group-theory/</loc>
+    <lastmod>2022-01-11T23:16:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/group-theory/</loc>
+    <lastmod>2022-01-11T23:16:03+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/now/</loc>
     <lastmod>2021-08-08T02:11:16+02:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/about/</loc>
     <lastmod>2021-08-08T02:11:10+02:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/biology/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/epidemiology/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/posts/malaria-genetic-modification/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/posts/casino-card-game/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/programming/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.larswagoner.com/tags/python/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.larswagoner.com/series/</loc>
   </url>

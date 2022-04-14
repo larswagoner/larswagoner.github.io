@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Lars Wagoner</title>
+    <link>https://www.larswagoner.com/tags/python/</link>
+    <description>Recent content in Python on Lars Wagoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Card Game - Casino.py</title>
+      <link>https://www.larswagoner.com/posts/casino-card-game/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.larswagoner.com/posts/casino-card-game/</guid>
+      <description>I learned how to play Casino, the card game, many years ago while traveling through Thailand. I played it intermitently over the years but I thought it would make for a fun programming project, so a friend and I spent a few weeks in 2021 making a version of the card game playable from the terminal! The current version works if you know how to play (this video has the instructions) and we even added some extra bells and whistles, but of course it could be tidied up a bit and given a graphical interface, but that is low priority for now.</description>
+    </item>
+    
+  </channel>
+</rss>

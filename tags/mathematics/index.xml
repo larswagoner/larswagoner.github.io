@@ -6,23 +6,43 @@
     <description>Recent content in Mathematics on Lars Wagoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 20:12:30 +0200</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 23:18:40 +0200</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Malaria - Genetic Modification</title>
-      <link>https://www.larswagoner.com/posts/malaria-genetic-modification/</link>
-      <pubDate>Wed, 18 Aug 2021 20:12:30 +0200</pubDate>
+      <title>Finitely Generated Modules over a PID</title>
+      <link>https://www.larswagoner.com/posts/finitely-generated-modules/</link>
+      <pubDate>Sun, 06 Feb 2022 23:18:40 +0200</pubDate>
       
-      <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
-      <description>Malaria Model</description>
+      <guid>https://www.larswagoner.com/posts/finitely-generated-modules/</guid>
+      <description>In this project for the &amp;ldquo;Honours Programme&amp;rdquo; I studied and presented The Fundamental Theorem for Finitely Generated Modules over a Principal Ideal Domain, along with the relevant lemmas, corollaries and algorithms. In particular, I deduced and presented an algorithm to determine the structure of a module M in terms of the direct sums of quotient modules of a Euclidean Domain, R.
+Contact me if you are interested the paper!</description>
     </item>
     
     <item>
-      <title>Stochastic Modelling - Deriving the Black-Scholes Model</title>
+      <title>Deriving the Black-Scholes Formula</title>
       <link>https://www.larswagoner.com/posts/black-scholes/</link>
-      <pubDate>Wed, 18 Aug 2021 20:12:30 +0200</pubDate>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.larswagoner.com/posts/black-scholes/</guid>
-      <description>Black-Scholes</description>
+      <description>In this project, we derive the Black-Scholes formula and apply it to real world options. In order to tackle the challenge of anticipating the behavior of the option market, a binomial model is obtained. The aforementioned model is the foundation upon which the Black-Scholes formula for European option pricing is developed. At the end, an analysis on the reliability of Black-Scholes will be implemented using real world data.
+You can find the introduction below, contact me if you are interested in other parts of the paper!</description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Group Theory</title>
+      <link>https://www.larswagoner.com/posts/comb-group-theory/</link>
+      <pubDate>Tue, 11 Jan 2022 23:16:03 +0200</pubDate>
+      
+      <guid>https://www.larswagoner.com/posts/comb-group-theory/</guid>
+      <description>In late 2021, I had the absolute pleasure to do an independent study as a part of the &amp;ldquo;Honours Programme&amp;rdquo; at my university. My topic of choice was Combinatorial Group Theory which, roughly speaking, studies groups from their presentations. In the paper, I formally define what a group presentation is (based off of the Free Group on a set) and give several other important definitions. I gave particular emphasis to a nice set of tools called Tietze Transformations, which I used later in the paper.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Malaria &amp; Genetic Modification</title>
+      <link>https://www.larswagoner.com/posts/malaria-genetic-modification/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
+      <description>In this paper written in mid 2021, we presented the standard model for malaria based on an SIR model. The funnest part, however, was generalizing this model to include the introduction of genetically modified mosquitoes into the system. The idea for this generalization is rooted in this Nature article, that covers how genetically modified male mosquitoes can potentially reduce the spread of vector borne diseases, in particular malaria. Of course, we made some simplifications and assumptions but the end result was a complete success!</description>
     </item>
     
   </channel>
