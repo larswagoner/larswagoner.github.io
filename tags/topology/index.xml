@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topology on Lars Wagoner</title>
+    <link>https://www.larswagoner.com/tags/topology/</link>
+    <description>Recent content in Topology on Lars Wagoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/topology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification of Compact Surfaces</title>
+      <link>https://www.larswagoner.com/posts/classify-compact-surfaces/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.larswagoner.com/posts/classify-compact-surfaces/</guid>
+      <description>In this paper we will discuss a number of important theorems in topology, in particular the Seifert-van Kampen theorem and the classification of compact surfaces. The goal of this paper is to give the reader some intuition behind the classification theorem by studying certain topological spaces such as the n-fold torus and the m-fold projective plane.
+We begin by stating the Seifert-van Kampen theorem, which will serve as a foundation for the remaining results.</description>
+    </item>
+    
+  </channel>
+</rss>

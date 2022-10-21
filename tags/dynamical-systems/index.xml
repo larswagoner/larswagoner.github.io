@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamical Systems on Lars Wagoner</title>
+    <link>https://www.larswagoner.com/tags/dynamical-systems/</link>
+    <description>Recent content in Dynamical Systems on Lars Wagoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/dynamical-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iterated Holomorphic Functions</title>
+      <link>https://www.larswagoner.com/posts/iter-holomorph-fun/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.larswagoner.com/posts/iter-holomorph-fun/</guid>
+      <description>Gave a lecture covering iterated holomorphic functions, In particular, I discussed the quadratic family and the relationship between Julia sets and the Mandlebrot set, as well as some topological aspects of chaotic dynamical systems.</description>
+    </item>
+    
+  </channel>
+</rss>
