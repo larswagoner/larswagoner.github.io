@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Epidemiology on Lars Wagoner</title>
-    <link>https://www.larswagoner.com/tags/epidemiology/</link>
+    <link>http://localhost:1313/tags/epidemiology/</link>
     <description>Recent content in Epidemiology on Lars Wagoner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/epidemiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling Malaria &amp; Genetic Modification</title>
-      <link>https://www.larswagoner.com/posts/malaria-genetic-modification/</link>
+      <link>http://localhost:1313/posts/malaria-genetic-modification/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
-      <description>In this paper written in mid 2021, we presented the standard model for malaria based on an SIR model. The funnest part, however, was generalizing this model to include the introduction of genetically modified mosquitoes into the system. The idea for this generalization is rooted in this Nature article, that covers how genetically modified male mosquitoes can potentially reduce the spread of vector borne diseases, in particular malaria. Of course, we made some simplifications and assumptions but the end result was a complete success!</description>
+      <guid>http://localhost:1313/posts/malaria-genetic-modification/</guid>
+      <description>&lt;p&gt;In this paper written in mid 2021, we presented the standard model for malaria based on an SIR model. The funnest part, however, was generalizing this model to include the introduction of genetically modified mosquitoes into the system. The idea for this generalization is rooted in &lt;a href=&#34;https://www.nature.com/articles/d41586-021-01186-6&#34;&gt;this Nature article&lt;/a&gt;, that covers how genetically modified male mosquitoes can potentially reduce the spread of vector borne diseases, in particular malaria. Of course, we made some simplifications and assumptions but the end result was a complete success!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

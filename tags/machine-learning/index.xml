@@ -2,29 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Lars Wagoner</title>
-    <link>https://www.larswagoner.com/tags/machine-learning/</link>
+    <link>http://localhost:1313/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Lars Wagoner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning Summer Fellowship</title>
-      <link>https://www.larswagoner.com/posts/ml-summer/</link>
+      <link>http://localhost:1313/posts/ml-summer/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/ml-summer/</guid>
-      <description>Over the summer I was a Machine Learning Safety Scholar at the Center for AI Safety (CAIS), headquartered in Berkeley, CA. We went over topics in Machine Learning, Deep Learning and ML Safety, including trojans, robustness and interpretability, all while implementing what we learned in Python using standard ML libraries. There were numerous guest speakers and discussion opportunities, as well as the analysis of many relevant papers in the field.</description>
+      <guid>http://localhost:1313/posts/ml-summer/</guid>
+      <description>&lt;p&gt;Over the summer I was a &lt;em&gt;Machine Learning Safety Scholar&lt;/em&gt; at the Center for AI Safety (CAIS), headquartered in Berkeley, CA. We went over topics in Machine Learning, Deep Learning and ML Safety, including trojans, robustness and interpretability, all while implementing what we learned in Python using standard ML libraries. There were numerous guest speakers and discussion opportunities, as well as the analysis of many relevant papers in the field.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Foundational Deep Learning</title>
-      <link>https://www.larswagoner.com/posts/foundation-dl/</link>
+      <link>http://localhost:1313/posts/foundation-dl/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/foundation-dl/</guid>
-      <description>Machine Learning is a rapdily growing field, both in industry and at academic institutions. Earlier this year, some formal results on the accuracy (or lack thereof) of neural networks were published, initiating a classification theory on the limitations of deep learning, reminiscent of similar work by Godel and Turing in the fields of logic and computer science, respectively.
-After coming across this paper by Colbrook, Antun and Hansen, I decided to give a proof of Theorem 2.</description>
+      <guid>http://localhost:1313/posts/foundation-dl/</guid>
+      <description>&lt;p&gt;Machine Learning is a rapdily growing field, both in industry and at academic institutions. Earlier this year, some formal results on the accuracy (or lack thereof) of neural networks were published, initiating a classification theory on the limitations of deep learning, reminiscent of similar work by Godel and Turing in the fields of logic and computer science, respectively.&lt;/p&gt;&#xA;&lt;p&gt;After coming across &lt;a href=&#34;https://doi.org/10.1073/pnas.2107151119&#34;&gt;this paper&lt;/a&gt; by Colbrook, Antun and Hansen, I decided to give a proof of Theorem 2.1 in a (relatively) self contained and didactic format, covering only the necessary lemmas and preliminary definitions. The bulk of my paper builds a framework (namely that of computational problems and algorithms) under which such a formal result can be proven. I particularly enjoyed coming up with the formal algorithm underpinning one of the main arguments in the proof. Note that I treated the case of deterministic algorithms and the original paper provides a proof for the statement about probabilistic algorithms.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

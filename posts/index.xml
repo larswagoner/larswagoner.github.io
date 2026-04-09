@@ -2,95 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lars Wagoner</title>
-    <link>https://www.larswagoner.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Lars Wagoner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.larswagoner.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning Summer Fellowship</title>
-      <link>https://www.larswagoner.com/posts/ml-summer/</link>
+      <link>http://localhost:1313/posts/ml-summer/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/ml-summer/</guid>
-      <description>Over the summer I was a Machine Learning Safety Scholar at the Center for AI Safety (CAIS), headquartered in Berkeley, CA. We went over topics in Machine Learning, Deep Learning and ML Safety, including trojans, robustness and interpretability, all while implementing what we learned in Python using standard ML libraries. There were numerous guest speakers and discussion opportunities, as well as the analysis of many relevant papers in the field.</description>
+      <guid>http://localhost:1313/posts/ml-summer/</guid>
+      <description>&lt;p&gt;Over the summer I was a &lt;em&gt;Machine Learning Safety Scholar&lt;/em&gt; at the Center for AI Safety (CAIS), headquartered in Berkeley, CA. We went over topics in Machine Learning, Deep Learning and ML Safety, including trojans, robustness and interpretability, all while implementing what we learned in Python using standard ML libraries. There were numerous guest speakers and discussion opportunities, as well as the analysis of many relevant papers in the field.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Foundational Deep Learning</title>
-      <link>https://www.larswagoner.com/posts/foundation-dl/</link>
+      <link>http://localhost:1313/posts/foundation-dl/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/foundation-dl/</guid>
-      <description>Machine Learning is a rapdily growing field, both in industry and at academic institutions. Earlier this year, some formal results on the accuracy (or lack thereof) of neural networks were published, initiating a classification theory on the limitations of deep learning, reminiscent of similar work by Godel and Turing in the fields of logic and computer science, respectively.
-After coming across this paper by Colbrook, Antun and Hansen, I decided to give a proof of Theorem 2.</description>
+      <guid>http://localhost:1313/posts/foundation-dl/</guid>
+      <description>&lt;p&gt;Machine Learning is a rapdily growing field, both in industry and at academic institutions. Earlier this year, some formal results on the accuracy (or lack thereof) of neural networks were published, initiating a classification theory on the limitations of deep learning, reminiscent of similar work by Godel and Turing in the fields of logic and computer science, respectively.&lt;/p&gt;&#xA;&lt;p&gt;After coming across &lt;a href=&#34;https://doi.org/10.1073/pnas.2107151119&#34;&gt;this paper&lt;/a&gt; by Colbrook, Antun and Hansen, I decided to give a proof of Theorem 2.1 in a (relatively) self contained and didactic format, covering only the necessary lemmas and preliminary definitions. The bulk of my paper builds a framework (namely that of computational problems and algorithms) under which such a formal result can be proven. I particularly enjoyed coming up with the formal algorithm underpinning one of the main arguments in the proof. Note that I treated the case of deterministic algorithms and the original paper provides a proof for the statement about probabilistic algorithms.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Classification of Compact Surfaces</title>
-      <link>https://www.larswagoner.com/posts/classify-compact-surfaces/</link>
+      <link>http://localhost:1313/posts/classify-compact-surfaces/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/classify-compact-surfaces/</guid>
-      <description>In this paper we will discuss a number of important theorems in topology, in particular the Seifert-van Kampen theorem and the classification of compact surfaces. The goal of this paper is to give the reader some intuition behind the classification theorem by studying certain topological spaces such as the n-fold torus and the m-fold projective plane.
-We begin by stating the Seifert-van Kampen theorem, which will serve as a foundation for the remaining results.</description>
+      <guid>http://localhost:1313/posts/classify-compact-surfaces/</guid>
+      <description>&lt;p&gt;In this paper we will discuss a number of important theorems in topology, in particular the Seifert-van Kampen theorem and the classification of compact surfaces. The goal of this paper is to give the reader some intuition behind the classification theorem by studying certain topological spaces such as the n-fold torus and the m-fold projective plane.&lt;/p&gt;&#xA;&lt;p&gt;We begin by stating the Seifert-van Kampen theorem, which will serve as a foundation for the remaining results. This is followed by an in depth introduction to polygonal surfaces, labelling schemes and the resulting quotient spaces, in which we compute several fundamental groups and study some of their properties. These examples and results indicate that certain spaces can be viewed as building blocks for others. This relationship is explored further in the classification theorem of quotient spaces obtained via a proper labelling scheme of a polygonal region. To conclude, we observe that any compact space is homeomorphic to such a quotient space, finalizing the classification.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Iterated Holomorphic Functions</title>
-      <link>https://www.larswagoner.com/posts/iter-holomorph-fun/</link>
+      <link>http://localhost:1313/posts/iter-holomorph-fun/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/iter-holomorph-fun/</guid>
-      <description>Gave a lecture covering iterated holomorphic functions, In particular, I discussed the quadratic family and the relationship between Julia sets and the Mandlebrot set, as well as some topological aspects of chaotic dynamical systems.</description>
+      <guid>http://localhost:1313/posts/iter-holomorph-fun/</guid>
+      <description>&lt;p&gt;Gave a lecture covering iterated holomorphic functions, In particular, I discussed the quadratic family and the relationship between Julia sets and the Mandlebrot set, as well as some topological aspects of chaotic dynamical systems.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Finitely Generated Modules over a PID</title>
-      <link>https://www.larswagoner.com/posts/finitely-generated-modules/</link>
+      <link>http://localhost:1313/posts/finitely-generated-modules/</link>
       <pubDate>Sun, 06 Feb 2022 23:18:40 +0200</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/finitely-generated-modules/</guid>
-      <description>In this project for the &amp;ldquo;Honours Programme&amp;rdquo; I studied and presented The Fundamental Theorem for Finitely Generated Modules over a Principal Ideal Domain, along with the relevant lemmas, corollaries and algorithms. In particular, I deduced and presented an algorithm to determine the structure of a module M in terms of the direct sums of quotient modules of a Euclidean Domain, R.
-Contact me if you are interested in the paper!</description>
+      <guid>http://localhost:1313/posts/finitely-generated-modules/</guid>
+      <description>&lt;p&gt;In this project for the &amp;ldquo;Honours Programme&amp;rdquo; I studied and presented The Fundamental Theorem for Finitely Generated Modules over a Principal Ideal Domain, along with the relevant lemmas, corollaries and algorithms. In particular, I deduced and presented an algorithm to determine the structure of a module M in terms of the direct sums of quotient modules of a Euclidean Domain, R.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Contact me if you are interested in the paper!&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Deriving the Black-Scholes Formula</title>
-      <link>https://www.larswagoner.com/posts/black-scholes/</link>
+      <link>http://localhost:1313/posts/black-scholes/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/black-scholes/</guid>
-      <description>In this project, we derive the Black-Scholes formula and apply it to real world options. In order to tackle the challenge of anticipating the behavior of the option market, a binomial model is obtained. The aforementioned model is the foundation upon which the Black-Scholes formula for European option pricing is developed. At the end, an analysis on the reliability of Black-Scholes will be implemented using real world data.
-You can find the introduction below, contact me if you are interested in other parts of the paper!</description>
+      <guid>http://localhost:1313/posts/black-scholes/</guid>
+      <description>&lt;p&gt;In this project, we derive the Black-Scholes formula and apply it to real world options.&#xA;In order to tackle the challenge of anticipating the behavior of the option market, a&#xA;binomial model is obtained. The aforementioned model is the foundation upon which&#xA;the Black-Scholes formula for European option pricing is developed. At the end, an&#xA;analysis on the reliability of Black-Scholes will be implemented using real world data.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;You can find the introduction below, contact me if you are interested in other parts of the paper!&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Combinatorial Group Theory</title>
-      <link>https://www.larswagoner.com/posts/comb-group-theory/</link>
+      <link>http://localhost:1313/posts/comb-group-theory/</link>
       <pubDate>Tue, 11 Jan 2022 23:16:03 +0200</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/comb-group-theory/</guid>
-      <description>In late 2021, I had the absolute pleasure to do an independent study as a part of the &amp;ldquo;Honours Programme&amp;rdquo; at my university. My topic of choice was Combinatorial Group Theory which, roughly speaking, studies groups from their presentations. In the paper, I formally define what a group presentation is (based off of the Free Group on a set) and give several other important definitions. I gave particular emphasis to a nice set of tools called Tietze Transformations, which I used later in the paper.</description>
+      <guid>http://localhost:1313/posts/comb-group-theory/</guid>
+      <description>&lt;p&gt;In late 2021, I had the absolute pleasure to do an independent study as a part of the &amp;ldquo;Honours Programme&amp;rdquo; at my university. My topic of choice was &lt;em&gt;Combinatorial Group Theory&lt;/em&gt; which, roughly speaking, studies groups from their presentations. In the paper, I formally define what a group presentation is (based off of the Free Group on a set) and give several other important definitions. I gave particular emphasis to a nice set of tools called Tietze Transformations, which I used later in the paper. The end goal was to use this theory to solve the &amp;ldquo;Word Problem&amp;rdquo; for groups, which boils down to determining when two expressions are equivalent as group elements (very roughly speaking). It turns out that the framework of CGT is very helpful for finding algorithms that solve the Word Problem.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Modeling Malaria &amp; Genetic Modification</title>
-      <link>https://www.larswagoner.com/posts/malaria-genetic-modification/</link>
+      <link>http://localhost:1313/posts/malaria-genetic-modification/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
-      <description>In this paper written in mid 2021, we presented the standard model for malaria based on an SIR model. The funnest part, however, was generalizing this model to include the introduction of genetically modified mosquitoes into the system. The idea for this generalization is rooted in this Nature article, that covers how genetically modified male mosquitoes can potentially reduce the spread of vector borne diseases, in particular malaria. Of course, we made some simplifications and assumptions but the end result was a complete success!</description>
+      <guid>http://localhost:1313/posts/malaria-genetic-modification/</guid>
+      <description>&lt;p&gt;In this paper written in mid 2021, we presented the standard model for malaria based on an SIR model. The funnest part, however, was generalizing this model to include the introduction of genetically modified mosquitoes into the system. The idea for this generalization is rooted in &lt;a href=&#34;https://www.nature.com/articles/d41586-021-01186-6&#34;&gt;this Nature article&lt;/a&gt;, that covers how genetically modified male mosquitoes can potentially reduce the spread of vector borne diseases, in particular malaria. Of course, we made some simplifications and assumptions but the end result was a complete success!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Card Game - Casino.py</title>
-      <link>https://www.larswagoner.com/posts/casino-card-game/</link>
+      <link>http://localhost:1313/posts/casino-card-game/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/casino-card-game/</guid>
-      <description>I learned how to play Casino, the card game, many years ago while traveling through Thailand. I played it intermitently over the years but I thought it would make for a fun programming project, so a friend and I spent a few weeks in 2021 making a version of the card game playable from the terminal! The current version works if you know how to play (this video has the instructions) and we even added some extra bells and whistles, but of course it could be tidied up a bit and given a graphical interface, but that is low priority for now.</description>
+      <guid>http://localhost:1313/posts/casino-card-game/</guid>
+      <description>&lt;p&gt;I learned how to play &lt;em&gt;Casino&lt;/em&gt;, the card game, many years ago while traveling through Thailand. I played it intermitently over the years but I thought it would make for a fun programming project, so a friend and I spent a few weeks in 2021 making a version of the card game playable from the terminal! The current version works if you know how to play (&lt;a href=&#34;https://www.youtube.com/watch?v=WrdSVHMYocc&#34;&gt;this video&lt;/a&gt; has the instructions) and we even added some extra bells and whistles, but of course it could be tidied up a bit and given a graphical interface, but that is low priority for now.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
